@@ -1,0 +1,38 @@
+# Entornos virtuales
+venv/
+.env/
+.venv/
+
+# Archivos de la base de datos
+*.sqlite3
+*.db
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos de desarrollo
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Archivos de configuración sensible
+.env
+*.env
+secrets.py
+
+# Archivos estáticos
+/staticfiles/
+/mediafiles/
+
+# Archivos generados por el sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de logs
+*.log
+
+# Archivos de caché
+*.cache
