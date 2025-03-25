@@ -43,7 +43,7 @@ crypto-monitor/
 
 1. Clonar repositorio:
 ```bash
-git clone [url-del-repositorio]
+git clone https://github.com/raulfdeztdo/crypto-monitor.git
 cd crypto-monitor
 ```
 2. Configuación de entorno virtual:
